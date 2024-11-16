@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **helyasabilla@gmail.com**
 
-- ⚡ Fun fact **I am a junior frontend developer who loves watch animee （。＾▽＾）**
+- ⚡ Fun fact **I am a junior frontend developer who loves watch animee let's coding and watch anime together \(。＾▽＾）**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
