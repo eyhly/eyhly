@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Helya Salsabilla</h1>
+<h1 align="left">Hi 👋, I'm Helya Salsabilla</h1>
 <h3 align="center">A Junior Website Developer 👩🏻‍💻</h3>
 <img align="right" width="300em" src="https://github.com/user-attachments/assets/9db84265-1963-4c44-b5bd-71e5eb2b117d" alt="this is me"/>
 
