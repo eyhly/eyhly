@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyhly&label=Profile%20views&color=0e75b6&style=flat" alt="eyhly" /> </p>
 
-- 🔭 I’m currently working on **United Tractors** as an **Frontend Developer Intern**
-
 - 🌱 I’m currently learning **React-Typescript**
 
 - 👯 I’m looking to collaborate on **Frontend & Grapich Design**
